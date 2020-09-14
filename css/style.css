@@ -1,0 +1,32 @@
+.box{
+	background-color: #9bffc8;
+	margin-right: 25%;
+	margin-left: 25%;
+	padding: 5px;
+}
+
+.vloot1{
+	float: left;
+	width: 300px;
+	border-style: solid;
+	border-width: 2px;
+	margin:10px;
+}
+.vloot2{
+	clear: left;
+	float: right;
+	width: 300px;
+	border-style: solid;
+	border-width: 2px;
+	margin:10px;
+
+}
+.vloot3{
+	clear: right;
+	float: left;
+	width: 300px;
+	border-style: solid;
+	border-width: 2px;
+	margin:10px;
+}
+
